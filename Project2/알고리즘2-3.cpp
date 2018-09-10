@@ -1,22 +1,16 @@
+#include <iostream>
 #include <string>
 #include <vector>
 #include <algorithm>
-#include <iostream>
 using namespace std;
 
-
 vector<string> solution(vector<string> strings, int n) {
-	// 1. ¹®ÀÚ¿­ n ~ ÀüÃ¼ ÀÎÀÚ ºñ±³
-	// 2. nÀÎÀÚ°¡ °°À» °æ¿ì ´ÙÀ½ ÀÎÀÚ ºñ±³ ¹İº¹
-	// 3. ÀÛÀº ¼ø Á¤¸®, n ~ ÀüÃ¼ °°À» °æ¿ì n¾Õ ¹®ÀÚ(=ÀüÃ¼) ºñ±³
-	bool run(string a, string b) {
-		if (a == b)
-			return a < b;
-		else
-			return a[n] < b[n];
-	}
-
-
-	sort(strings.begin(), strings.end(), run);
+	// 1. ë¬¸ìì—´ n ~ ì „ì²´ ì¸ì ë¹„êµ
+	// 2. nì¸ìê°€ ê°™ì„ ê²½ìš° ë‹¤ìŒ ì¸ì ë¹„êµ ë°˜ë³µ
+	// 3. ì‘ì€ ìˆœ ì •ë¦¬, n ~ ì „ì²´ ê°™ì„ ê²½ìš° nì• ë¬¸ì(=ì „ì²´) ë¹„êµ
+	auto lamba = [&n](string x, string y) ->bool {
+		return (x[n] == y[n])? x.compare(y) : x[n]<y[n];
+	};
+	sort(strings.begin(), strings.end(), lamba);
 	return strings;
 }
