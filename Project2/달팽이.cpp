@@ -5,7 +5,7 @@ void run() {
 	int count = 0;
 	int num = 0;
 	int arr[10][10] = { 0 };
-	printf("�� �Է� : ");
+	printf("수를 입력하세요 : ");
 	fflush(stdin);
 	scanf("%d", &num);
 	;
