@@ -64,7 +64,6 @@ string solution(int n) {
         if(pos == 0) n -= 1;
         answer = arr[pos]+ answer;
     }
-
     return answer;
 }
 
