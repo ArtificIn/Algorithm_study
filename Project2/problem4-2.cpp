@@ -51,40 +51,20 @@
 
 #include <iostream>
 #include <string>
-#include <vector>
 using namespace std;
 
-// 나머지 계산
-string debuging(int n){
-    if(n%3 ==0){
-        return "4";
-    }
-    else if(n%3 == 1){
-        return "1";
-    }
-    else if(n%3 == 2){
-        return "2";
-    }
-    else
-        return "";
-}
-
 string solution(int n) {
-    vector<int> numbers = {1,2,4};
-    vector<int> repeat= {1,4,13,40};
+    string answer = "";
+    string arr [] = {"4","1","2"};
     
-    for(int i=1;i<n;i++) {
-        repeat.push_back(repeat[i-1]*3 + 1);
+    while(n>0){
+        int pos = n%3;
+        n /= 3;
+        
+        if(pos == 0) n -= 1;
+        answer = arr[pos]+ answer;
     }
-    cout<<"repeat = ";
-    for(int i=0;i<n;i++) cout<<repeat[i];
-    cout<<endl;
-    
-    int temp = n/3; //몫
-    int count = 0;
-    string answer;
-    
-    
+
     return answer;
 }
 
