@@ -4,7 +4,7 @@
 #include <vector>
 using namespace std;
 
-long long solution(int a, int b) {
+long long solution_1L_5(int a, int b) {
 	long long answer = 0;
 
 	if (a >= b) {

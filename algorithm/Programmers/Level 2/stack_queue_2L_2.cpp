@@ -13,7 +13,7 @@ using namespace std;
 // 1. 3으로 나눈 나머지 1,2,4
 // 2. 자리수 - 3의 배수 이상일 때마다 한 자리씩 추가
 
-string solution(int n) {
+string solution_2L_2(int n) {
     string answer="";
     string arr [] = {"4","1","2"};
     

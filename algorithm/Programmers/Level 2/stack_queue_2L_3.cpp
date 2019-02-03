@@ -13,7 +13,7 @@
 #include <vector>
 using namespace std;
 
-vector<int> solution(vector<int> progresses, vector<int> speeds){
+vector<int> solution_2L_3(vector<int> progresses, vector<int> speeds){
     vector<int> days;//날짜 수 저장
     vector<int> answer;
     // progresses + speeds 계산

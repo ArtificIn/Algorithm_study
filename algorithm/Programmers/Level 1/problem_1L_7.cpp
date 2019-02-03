@@ -5,7 +5,7 @@
 #include <cctype>
 using namespace std;
 
-bool solution(string s)
+bool solution_1L_7(string s)
 {
 	bool answer = true;
 

@@ -6,7 +6,7 @@
 //
 //using namespace std;
 //
-//string solution(string s) {
+//string solution_1L_8(string s) {
 //    string answer = s;
 //    sort(answer.begin(), answer.end(), greater<char>());
 //    return answer;

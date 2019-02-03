@@ -4,7 +4,7 @@
 
 using namespace std;
 
-string solution(int a, int b) {
+string solution_1L_1(int a, int b) {
 	int temp = b;
 	int dayinfo[] = { 31,29,31,30,31,30,31,31,30,31,30,31 };
 	string arr[] = { "FRI", "SAT", "SUN", "MON", "TUE", "WED", "THU" };

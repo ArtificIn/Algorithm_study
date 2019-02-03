@@ -13,6 +13,17 @@
 		9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */; };
 		9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */; };
 		9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */; };
+		9BFAA7CD2207081C0000255B /* problem_1L_7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C22207081C0000255B /* problem_1L_7.cpp */; };
+		9BFAA7CE2207081C0000255B /* problem_1L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C32207081C0000255B /* problem_1L_5.cpp */; };
+		9BFAA7CF2207081C0000255B /* problem_1L_4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C42207081C0000255B /* problem_1L_4.cpp */; };
+		9BFAA7D02207081C0000255B /* problem_1L_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C52207081C0000255B /* problem_1L_6.cpp */; };
+		9BFAA7D12207081C0000255B /* problem_1L_10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C62207081C0000255B /* problem_1L_10.cpp */; };
+		9BFAA7D22207081C0000255B /* problem_1L_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C72207081C0000255B /* problem_1L_2.cpp */; };
+		9BFAA7D32207081C0000255B /* problem_1L_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C82207081C0000255B /* problem_1L_3.cpp */; };
+		9BFAA7D42207081C0000255B /* problem_1L_11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C92207081C0000255B /* problem_1L_11.cpp */; };
+		9BFAA7D52207081C0000255B /* problem_1L_1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7CA2207081C0000255B /* problem_1L_1.cpp */; };
+		9BFAA7D62207081C0000255B /* problem_1L_8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7CB2207081C0000255B /* problem_1L_8.cpp */; };
+		9BFAA7D72207081C0000255B /* problem_1L_9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7CC2207081C0000255B /* problem_1L_9.cpp */; };
 		9BFFA4CD2165E37400216B9D /* stack_queue_2L_4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFFA4CC2165E37400216B9D /* stack_queue_2L_4.cpp */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +47,17 @@
 		9B38FD6521509308005422ED /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "달팽이.cpp"; sourceTree = "<group>"; };
 		9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_6.cpp; sourceTree = "<group>"; };
+		9BFAA7C22207081C0000255B /* problem_1L_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_7.cpp; sourceTree = "<group>"; };
+		9BFAA7C32207081C0000255B /* problem_1L_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_5.cpp; sourceTree = "<group>"; };
+		9BFAA7C42207081C0000255B /* problem_1L_4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_4.cpp; sourceTree = "<group>"; };
+		9BFAA7C52207081C0000255B /* problem_1L_6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_6.cpp; sourceTree = "<group>"; };
+		9BFAA7C62207081C0000255B /* problem_1L_10.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_10.cpp; sourceTree = "<group>"; };
+		9BFAA7C72207081C0000255B /* problem_1L_2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_2.cpp; sourceTree = "<group>"; };
+		9BFAA7C82207081C0000255B /* problem_1L_3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_3.cpp; sourceTree = "<group>"; };
+		9BFAA7C92207081C0000255B /* problem_1L_11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_11.cpp; sourceTree = "<group>"; };
+		9BFAA7CA2207081C0000255B /* problem_1L_1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_1.cpp; sourceTree = "<group>"; };
+		9BFAA7CB2207081C0000255B /* problem_1L_8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_8.cpp; sourceTree = "<group>"; };
+		9BFAA7CC2207081C0000255B /* problem_1L_9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_9.cpp; sourceTree = "<group>"; };
 		9BFFA4CC2165E37400216B9D /* stack_queue_2L_4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_4.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,6 +117,17 @@
 		9B9FE1F0220701470017D425 /* Level 1 */ = {
 			isa = PBXGroup;
 			children = (
+				9BFAA7CA2207081C0000255B /* problem_1L_1.cpp */,
+				9BFAA7C72207081C0000255B /* problem_1L_2.cpp */,
+				9BFAA7C82207081C0000255B /* problem_1L_3.cpp */,
+				9BFAA7C42207081C0000255B /* problem_1L_4.cpp */,
+				9BFAA7C32207081C0000255B /* problem_1L_5.cpp */,
+				9BFAA7C52207081C0000255B /* problem_1L_6.cpp */,
+				9BFAA7C22207081C0000255B /* problem_1L_7.cpp */,
+				9BFAA7CB2207081C0000255B /* problem_1L_8.cpp */,
+				9BFAA7CC2207081C0000255B /* problem_1L_9.cpp */,
+				9BFAA7C62207081C0000255B /* problem_1L_10.cpp */,
+				9BFAA7C92207081C0000255B /* problem_1L_11.cpp */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -170,11 +203,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */,
+				9BFAA7CF2207081C0000255B /* problem_1L_4.cpp in Sources */,
+				9BFAA7CE2207081C0000255B /* problem_1L_5.cpp in Sources */,
+				9BFAA7D12207081C0000255B /* problem_1L_10.cpp in Sources */,
 				9B027D42215C66F60062469E /* stack_queue_2L_1.cpp in Sources */,
 				9B03CC3A215DCA7F00687B41 /* stack_queue_2L_3.cpp in Sources */,
+				9BFAA7D42207081C0000255B /* problem_1L_11.cpp in Sources */,
+				9BFAA7D62207081C0000255B /* problem_1L_8.cpp in Sources */,
+				9BFAA7D22207081C0000255B /* problem_1L_2.cpp in Sources */,
+				9BFAA7D02207081C0000255B /* problem_1L_6.cpp in Sources */,
+				9BFAA7D72207081C0000255B /* problem_1L_9.cpp in Sources */,
 				9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */,
+				9BFAA7CD2207081C0000255B /* problem_1L_7.cpp in Sources */,
+				9BFAA7D32207081C0000255B /* problem_1L_3.cpp in Sources */,
 				9B03CC38215DC54A00687B41 /* stack_queue_2L_2.cpp in Sources */,
 				9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */,
+				9BFAA7D52207081C0000255B /* problem_1L_1.cpp in Sources */,
 				9BFFA4CD2165E37400216B9D /* stack_queue_2L_4.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

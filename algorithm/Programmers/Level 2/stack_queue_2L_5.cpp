@@ -14,7 +14,7 @@
 #include <algorithm>
 using namespace std;
 
-int solution(int bridge_length, int weight, vector<int> truck_weights) {
+int solution_2L_5(int bridge_length, int weight, vector<int> truck_weights) {
     vector<int> bridge; //다리 위 트럭
     int answer=1;
     int truck_pos=0; // 이동할 차량 순서

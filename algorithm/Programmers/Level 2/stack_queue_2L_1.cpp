@@ -23,7 +23,7 @@ string ReplaceAll(std::string &str, const std::string& from, const std::string& 
     return str;
 }
 
-int solution(string arrangement) {
+int solution_2L_1(string arrangement) {
     string a = arrangement;
     int count=0;
 

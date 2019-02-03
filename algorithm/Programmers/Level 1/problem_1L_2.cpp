@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string solution(string s) {
+string solution_1L_2(string s) {
 	string answer = "";
 
 	int pos = s.length() / 2;

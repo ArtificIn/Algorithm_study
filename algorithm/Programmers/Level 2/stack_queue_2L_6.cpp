@@ -15,7 +15,7 @@
 #include <algorithm>
 using namespace std;
 
-int solution(vector<int> priorities, int location) {
+int solution_2L_6(vector<int> priorities, int location) {
     vector<int> s = priorities;
     vector<int> p = priorities;
     queue<int> q;
