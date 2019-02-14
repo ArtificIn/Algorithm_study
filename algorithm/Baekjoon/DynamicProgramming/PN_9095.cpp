@@ -18,19 +18,19 @@
 // n = 7 -> 44
 //
 
-#include <iostream>
-using namespace std;
-
-int main(){
-    int t, n;
-    int array[12] = {0,1,2,4};
-
-    for (int i = 4; i <= 11; i++) array[i] = array[i-3] + array[i-2] + array[i-1];
-    cin >> t;
-  
-    for (int j = 0; j< t; j++){
-        cin >> n;
-        cout<< array[n] <<endl;
-    }
-    return 0;
-}
+//#include <iostream>
+//using namespace std;
+//
+//int main(){
+//    int t, n;
+//    int array[12] = {0,1,2,4};
+//
+//    for (int i = 4; i <= 11; i++) array[i] = array[i-3] + array[i-2] + array[i-1];
+//    cin >> t;
+//
+//    for (int j = 0; j< t; j++){
+//        cin >> n;
+//        cout<< array[n] <<endl;
+//    }
+//    return 0;
+//}
