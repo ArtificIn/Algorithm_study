@@ -43,7 +43,7 @@ int solution2579(){
     return dp[n-1];
 }
 
-int main(){
-    cout<< solution2579();
-    return 0;
-}
+//int main(){
+//    cout<< solution2579();
+//    return 0;
+//}
