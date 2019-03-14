@@ -49,15 +49,15 @@ void solution10828(string a){
     connet(bag, order, number);
 }
 
-int main(){
-    int runningTime = 0;
-    cin >> runningTime;
-    string aa;
-    
-    for (int i = 0; i < runningTime + 1 ; i++) {
-        getline(cin, aa);
-        solution10828(aa);
-    }
-    
-    return 0;
-}
+//int main(){
+//    int runningTime = 0;
+//    cin >> runningTime;
+//    string aa;
+//
+//    for (int i = 0; i < runningTime + 1 ; i++) {
+//        getline(cin, aa);
+//        solution10828(aa);
+//    }
+//
+//    return 0;
+//}
