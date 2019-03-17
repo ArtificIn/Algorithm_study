@@ -33,15 +33,15 @@ string solution9012(string str){
     return array.empty() ? "YES" : "NO";
 }
 
-int main(){
-    int number = 0;
-    cin >> number;
-    
-    for (int i = 0; i<number ; i++) {
-        string str;
-        cin >> str;
-        cout << solution9012(str) << endl;
-    }
-    
-    return 0;
-}
+//int main(){
+//    int number = 0;
+//    cin >> number;
+//
+//    for (int i = 0; i<number ; i++) {
+//        string str;
+//        cin >> str;
+//        cout << solution9012(str) << endl;
+//    }
+//
+//    return 0;
+//}
