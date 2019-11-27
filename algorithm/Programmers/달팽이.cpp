@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 void run() {
-	int count = 0;
+	int count = 1;
 	int num = 0;
 	int arr[10][10] = { 0 };
 	printf("수를 입력하세요 : ");
@@ -10,11 +10,11 @@ void run() {
 	scanf("%d", &num);
 	;
 
-	for (int i = 0; i < num; i++) {
-		for (int j = 0; j < num - i; j++)  arr[i][j] = count++;
-		for (int j = 0; j < num - i - 1; j++) arr[j + 1][num - i - 1] = count++;
-		for (int j = 0; j < num - i - 1; j++)arr[num - i - 1][num - j - 2] = count++;
-		for (int j = 0; j < num - i - 2; j++)arr[num - j - 2][i] = count++;
+	for (int i = 0; i < num / 2 + 1; i++) {
+		for (int j = i; j < num - i; j++)  arr[i][j] = count++;
+		for (int j = i + 1; j < num - i; j++) arr[j][num - i - 1] = count++;
+		for (int j = num - i - 2; j >= i; j--) arr[num - i - 1][j] = count++;
+		for (int j = num - i - 2; j >= i + 1; j--) arr[j][i] = count++;
 	}
 
 	for (int i = 0; i < num; i++) {

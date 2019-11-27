@@ -12,12 +12,16 @@
 		9B03CC3A215DCA7F00687B41 /* stack_queue_2L_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B03CC39215DCA7F00687B41 /* stack_queue_2L_3.cpp */; };
 		9B1CC222224359EF00DA5306 /* PN_2493 tower.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */; };
 		9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */; };
+		9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2606032385445700A20CF3 /* PN_1935.cpp */; };
 		9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */; };
 		9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2DF7642207477F00E9DF6B /* PN_9095.cpp */; };
 		9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B3EEE6E2208547E00E1CB93 /* PN_2579.cpp */; };
+		9B456E61227AC69400A54E30 /* PN_6549_biggestRectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B456E60227AC69400A54E30 /* PN_6549_biggestRectangle.cpp */; };
 		9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B4A7E0D223E6815006158F5 /* PN_1874 Stack Array.cpp */; };
 		9B774834224099E6005B550A /* PN_10799 IronStick.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B774833224099E6005B550A /* PN_10799 IronStick.cpp */; };
 		9B7748362240A3EF005B550A /* PN_2504 valueIn().cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B7748352240A3EF005B550A /* PN_2504 valueIn().cpp */; };
+		9B85B4C1228D372000F7EAEE /* PN_9935 string explosion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */; };
+		9B86C4D22372C6FA00B00693 /* PN_1918.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B86C4D12372C6FA00B00693 /* PN_1918.cpp */; };
 		9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */; };
 		9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */; };
 		9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */; };
@@ -33,6 +37,8 @@
 		9BFAA7D62207081C0000255B /* problem_1L_8.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7CB2207081C0000255B /* problem_1L_8.cpp */; };
 		9BFAA7D72207081C0000255B /* problem_1L_9.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7CC2207081C0000255B /* problem_1L_9.cpp */; };
 		9BFAA7DA22070CD20000255B /* PN_1463.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7D822070CD20000255B /* PN_1463.cpp */; };
+		9BFF7B9B23810CCE00420CCE /* PN_3986.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFF7B9923810CCE00420CCE /* PN_3986.cpp */; };
+		9BFF7B9D238111D700420CCE /* PN_1725.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFF7B9C238111D700420CCE /* PN_1725.cpp */; };
 		9BFFA4CD2165E37400216B9D /* stack_queue_2L_4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFFA4CC2165E37400216B9D /* stack_queue_2L_4.cpp */; };
 /* End PBXBuildFile section */
 
@@ -54,13 +60,17 @@
 		9B03CC39215DCA7F00687B41 /* stack_queue_2L_3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_3.cpp; sourceTree = "<group>"; };
 		9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_2493 tower.cpp"; sourceTree = "<group>"; };
 		9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_5.cpp; sourceTree = "<group>"; };
+		9B2606032385445700A20CF3 /* PN_1935.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1935.cpp; sourceTree = "<group>"; };
 		9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_9012 ().cpp"; sourceTree = "<group>"; };
 		9B2DF7642207477F00E9DF6B /* PN_9095.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_9095.cpp; sourceTree = "<group>"; };
 		9B38FD6521509308005422ED /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B3EEE6E2208547E00E1CB93 /* PN_2579.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_2579.cpp; sourceTree = "<group>"; };
+		9B456E60227AC69400A54E30 /* PN_6549_biggestRectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_6549_biggestRectangle.cpp; sourceTree = "<group>"; };
 		9B4A7E0D223E6815006158F5 /* PN_1874 Stack Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_1874 Stack Array.cpp"; sourceTree = "<group>"; };
 		9B774833224099E6005B550A /* PN_10799 IronStick.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_10799 IronStick.cpp"; sourceTree = "<group>"; };
 		9B7748352240A3EF005B550A /* PN_2504 valueIn().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_2504 valueIn().cpp"; sourceTree = "<group>"; };
+		9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_9935 string explosion.cpp"; sourceTree = "<group>"; };
+		9B86C4D12372C6FA00B00693 /* PN_1918.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1918.cpp; sourceTree = "<group>"; };
 		9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "달팽이.cpp"; sourceTree = "<group>"; };
 		9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_10828 Stack.cpp"; sourceTree = "<group>"; };
 		9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_6.cpp; sourceTree = "<group>"; };
@@ -76,6 +86,8 @@
 		9BFAA7CB2207081C0000255B /* problem_1L_8.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_8.cpp; sourceTree = "<group>"; };
 		9BFAA7CC2207081C0000255B /* problem_1L_9.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_9.cpp; sourceTree = "<group>"; };
 		9BFAA7D822070CD20000255B /* PN_1463.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1463.cpp; sourceTree = "<group>"; };
+		9BFF7B9923810CCE00420CCE /* PN_3986.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_3986.cpp; sourceTree = "<group>"; };
+		9BFF7B9C238111D700420CCE /* PN_1725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1725.cpp; sourceTree = "<group>"; };
 		9BFFA4CC2165E37400216B9D /* stack_queue_2L_4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_4.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -184,6 +196,12 @@
 				9B774833224099E6005B550A /* PN_10799 IronStick.cpp */,
 				9B7748352240A3EF005B550A /* PN_2504 valueIn().cpp */,
 				9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */,
+				9B456E60227AC69400A54E30 /* PN_6549_biggestRectangle.cpp */,
+				9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */,
+				9B86C4D12372C6FA00B00693 /* PN_1918.cpp */,
+				9BFF7B9923810CCE00420CCE /* PN_3986.cpp */,
+				9BFF7B9C238111D700420CCE /* PN_1725.cpp */,
+				9B2606032385445700A20CF3 /* PN_1935.cpp */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -253,6 +271,8 @@
 				9B027D42215C66F60062469E /* stack_queue_2L_1.cpp in Sources */,
 				9B03CC3A215DCA7F00687B41 /* stack_queue_2L_3.cpp in Sources */,
 				9B774834224099E6005B550A /* PN_10799 IronStick.cpp in Sources */,
+				9BFF7B9D238111D700420CCE /* PN_1725.cpp in Sources */,
+				9BFF7B9B23810CCE00420CCE /* PN_3986.cpp in Sources */,
 				9BFAA7D42207081C0000255B /* problem_1L_11.cpp in Sources */,
 				9BFAA7D62207081C0000255B /* problem_1L_8.cpp in Sources */,
 				9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */,
@@ -263,13 +283,17 @@
 				9BFAA7DA22070CD20000255B /* PN_1463.cpp in Sources */,
 				9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */,
 				9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */,
+				9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */,
 				9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */,
+				9B456E61227AC69400A54E30 /* PN_6549_biggestRectangle.cpp in Sources */,
 				9BFAA7CD2207081C0000255B /* problem_1L_7.cpp in Sources */,
 				9BFAA7D32207081C0000255B /* problem_1L_3.cpp in Sources */,
 				9B03CC38215DC54A00687B41 /* stack_queue_2L_2.cpp in Sources */,
 				9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */,
 				9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */,
 				9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */,
+				9B86C4D22372C6FA00B00693 /* PN_1918.cpp in Sources */,
+				9B85B4C1228D372000F7EAEE /* PN_9935 string explosion.cpp in Sources */,
 				9BFAA7D52207081C0000255B /* problem_1L_1.cpp in Sources */,
 				9BFFA4CD2165E37400216B9D /* stack_queue_2L_4.cpp in Sources */,
 			);
