@@ -23,8 +23,12 @@
 		9B85B4C1228D372000F7EAEE /* PN_9935 string explosion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */; };
 		9B86C4D22372C6FA00B00693 /* PN_1918.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B86C4D12372C6FA00B00693 /* PN_1918.cpp */; };
 		9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */; };
+		9BAC1C032451ABAE006E24CB /* numberOfK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C022451ABAE006E24CB /* numberOfK.swift */; };
+		9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C042451BD15006E24CB /* biggestNumber.swift */; };
 		9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */; };
 		9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */; };
+		9BE5054423C712CC005D6B69 /* PN_10773.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE5054323C712CC005D6B69 /* PN_10773.cpp */; };
+		9BE5054623C7186B005D6B69 /* PN_4949.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE5054523C7186B005D6B69 /* PN_4949.cpp */; };
 		9BFAA7CD2207081C0000255B /* problem_1L_7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C22207081C0000255B /* problem_1L_7.cpp */; };
 		9BFAA7CE2207081C0000255B /* problem_1L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C32207081C0000255B /* problem_1L_5.cpp */; };
 		9BFAA7CF2207081C0000255B /* problem_1L_4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BFAA7C42207081C0000255B /* problem_1L_4.cpp */; };
@@ -72,8 +76,12 @@
 		9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_9935 string explosion.cpp"; sourceTree = "<group>"; };
 		9B86C4D12372C6FA00B00693 /* PN_1918.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1918.cpp; sourceTree = "<group>"; };
 		9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "달팽이.cpp"; sourceTree = "<group>"; };
+		9BAC1C022451ABAE006E24CB /* numberOfK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numberOfK.swift; sourceTree = "<group>"; };
+		9BAC1C042451BD15006E24CB /* biggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggestNumber.swift; sourceTree = "<group>"; };
 		9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_10828 Stack.cpp"; sourceTree = "<group>"; };
 		9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_6.cpp; sourceTree = "<group>"; };
+		9BE5054323C712CC005D6B69 /* PN_10773.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_10773.cpp; sourceTree = "<group>"; };
+		9BE5054523C7186B005D6B69 /* PN_4949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_4949.cpp; sourceTree = "<group>"; };
 		9BFAA7C22207081C0000255B /* problem_1L_7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_7.cpp; sourceTree = "<group>"; };
 		9BFAA7C32207081C0000255B /* problem_1L_5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_5.cpp; sourceTree = "<group>"; };
 		9BFAA7C42207081C0000255B /* problem_1L_4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = problem_1L_4.cpp; sourceTree = "<group>"; };
@@ -140,6 +148,7 @@
 		9B9FE1DA2206FAF60017D425 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				9BAC1BF924519FAB006E24CB /* Array */,
 				9B9FE1F12207014E0017D425 /* Level 2 */,
 				9B9FE1F0220701470017D425 /* Level 1 */,
 				9B9FE1DC2206FEAE0017D425 /* 달팽이.cpp */,
@@ -187,6 +196,15 @@
 			path = "Level 2";
 			sourceTree = "<group>";
 		};
+		9BAC1BF924519FAB006E24CB /* Array */ = {
+			isa = PBXGroup;
+			children = (
+				9BAC1C022451ABAE006E24CB /* numberOfK.swift */,
+				9BAC1C042451BD15006E24CB /* biggestNumber.swift */,
+			);
+			path = Array;
+			sourceTree = "<group>";
+		};
 		9BE0146C2237CC26000CFE01 /* Stack */ = {
 			isa = PBXGroup;
 			children = (
@@ -202,6 +220,8 @@
 				9BFF7B9923810CCE00420CCE /* PN_3986.cpp */,
 				9BFF7B9C238111D700420CCE /* PN_1725.cpp */,
 				9B2606032385445700A20CF3 /* PN_1935.cpp */,
+				9BE5054323C712CC005D6B69 /* PN_10773.cpp */,
+				9BE5054523C7186B005D6B69 /* PN_4949.cpp */,
 			);
 			path = Stack;
 			sourceTree = "<group>";
@@ -237,7 +257,7 @@
 				TargetAttributes = {
 					9B38FD6421509308005422ED = {
 						CreatedOnToolsVersion = 9.4.1;
-						LastSwiftMigration = 0940;
+						LastSwiftMigration = 1140;
 					};
 				};
 			};
@@ -282,6 +302,7 @@
 				9BFAA7D72207081C0000255B /* problem_1L_9.cpp in Sources */,
 				9BFAA7DA22070CD20000255B /* PN_1463.cpp in Sources */,
 				9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */,
+				9BAC1C032451ABAE006E24CB /* numberOfK.swift in Sources */,
 				9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */,
 				9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */,
 				9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */,
@@ -290,11 +311,14 @@
 				9BFAA7D32207081C0000255B /* problem_1L_3.cpp in Sources */,
 				9B03CC38215DC54A00687B41 /* stack_queue_2L_2.cpp in Sources */,
 				9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */,
+				9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */,
 				9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */,
+				9BE5054623C7186B005D6B69 /* PN_4949.cpp in Sources */,
 				9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */,
 				9B86C4D22372C6FA00B00693 /* PN_1918.cpp in Sources */,
 				9B85B4C1228D372000F7EAEE /* PN_9935 string explosion.cpp in Sources */,
 				9BFAA7D52207081C0000255B /* problem_1L_1.cpp in Sources */,
+				9BE5054423C712CC005D6B69 /* PN_10773.cpp in Sources */,
 				9BFFA4CD2165E37400216B9D /* stack_queue_2L_4.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,8 +446,9 @@
 					"@loader_path/../Frameworks",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -438,7 +463,8 @@
 					"@loader_path/../Frameworks",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};

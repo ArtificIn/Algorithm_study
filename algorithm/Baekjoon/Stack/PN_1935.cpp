@@ -59,7 +59,7 @@ void solution1935(){
     }
     cout<< b<<"종료";
 }
-int main(){
-    cout<< "입력 : ";
-    solution1935();
-}
+//int main(){
+//    cout<< "입력 : ";
+//    solution1935();
+//}
