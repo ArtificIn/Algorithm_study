@@ -27,6 +27,7 @@
 		9BAC1C032451ABAE006E24CB /* numberOfK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C022451ABAE006E24CB /* numberOfK.swift */; };
 		9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C042451BD15006E24CB /* biggestNumber.swift */; };
 		9BAC1C072451E342006E24CB /* h-index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C062451E342006E24CB /* h-index.swift */; };
+		9BDD524324C19D5500C0870B /* number_of_K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDD524224C19D5500C0870B /* number_of_K.swift */; };
 		9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */; };
 		9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */; };
 		9BE5054423C712CC005D6B69 /* PN_10773.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE5054323C712CC005D6B69 /* PN_10773.cpp */; };
@@ -82,6 +83,7 @@
 		9BAC1C022451ABAE006E24CB /* numberOfK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numberOfK.swift; sourceTree = "<group>"; };
 		9BAC1C042451BD15006E24CB /* biggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggestNumber.swift; sourceTree = "<group>"; };
 		9BAC1C062451E342006E24CB /* h-index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "h-index.swift"; sourceTree = "<group>"; };
+		9BDD524224C19D5500C0870B /* number_of_K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = number_of_K.swift; sourceTree = "<group>"; };
 		9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_10828 Stack.cpp"; sourceTree = "<group>"; };
 		9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_6.cpp; sourceTree = "<group>"; };
 		9BE5054323C712CC005D6B69 /* PN_10773.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_10773.cpp; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 		9B30D5E724C04B520030F14F /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				9BDD524124C19D4100C0870B /* Sort */,
 				9B30D5EB24C04E9C0030F14F /* Stack */,
 			);
 			path = Programmers;
@@ -249,6 +252,14 @@
 				9BAC1C062451E342006E24CB /* h-index.swift */,
 			);
 			path = Array;
+			sourceTree = "<group>";
+		};
+		9BDD524124C19D4100C0870B /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+				9BDD524224C19D5500C0870B /* number_of_K.swift */,
+			);
+			path = Sort;
 			sourceTree = "<group>";
 		};
 		9BE0146C2237CC26000CFE01 /* Stack */ = {
@@ -358,6 +369,7 @@
 				9BFAA7CD2207081C0000255B /* problem_1L_7.cpp in Sources */,
 				9BFAA7D32207081C0000255B /* problem_1L_3.cpp in Sources */,
 				9B03CC38215DC54A00687B41 /* stack_queue_2L_2.cpp in Sources */,
+				9BDD524324C19D5500C0870B /* number_of_K.swift in Sources */,
 				9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */,
 				9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */,
 				9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */,
