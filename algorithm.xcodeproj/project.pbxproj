@@ -14,6 +14,7 @@
 		9B1CC222224359EF00DA5306 /* PN_2493 tower.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */; };
 		9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */; };
 		9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2606032385445700A20CF3 /* PN_1935.cpp */; };
+		9B2B64C924C6CCDC006BD261 /* mock_exam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2B64C824C6CCDC006BD261 /* mock_exam.swift */; };
 		9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */; };
 		9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2DF7642207477F00E9DF6B /* PN_9095.cpp */; };
 		9B30D5ED24C04EAA0030F14F /* bridge_truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B30D5EC24C04EAA0030F14F /* bridge_truck.swift */; };
@@ -71,6 +72,7 @@
 		9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_2493 tower.cpp"; sourceTree = "<group>"; };
 		9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_5.cpp; sourceTree = "<group>"; };
 		9B2606032385445700A20CF3 /* PN_1935.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1935.cpp; sourceTree = "<group>"; };
+		9B2B64C824C6CCDC006BD261 /* mock_exam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mock_exam.swift; sourceTree = "<group>"; };
 		9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_9012 ().cpp"; sourceTree = "<group>"; };
 		9B2DF7642207477F00E9DF6B /* PN_9095.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_9095.cpp; sourceTree = "<group>"; };
 		9B30D5EC24C04EAA0030F14F /* bridge_truck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bridge_truck.swift; sourceTree = "<group>"; };
@@ -161,6 +163,7 @@
 				9BDD524124C19D4100C0870B /* Sort */,
 				9B30D5EB24C04E9C0030F14F /* Stack */,
 				9B06743924C5A1F40058078A /* 2019_kakao_winter_intership.swift */,
+				9B2B64C824C6CCDC006BD261 /* mock_exam.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -370,6 +373,7 @@
 				9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */,
 				9BAB0FF124C2DE1A00ECB56D /* h-index.swift in Sources */,
 				9BAC1C032451ABAE006E24CB /* numberOfK.swift in Sources */,
+				9B2B64C924C6CCDC006BD261 /* mock_exam.swift in Sources */,
 				9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */,
 				9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */,
 				9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */,
