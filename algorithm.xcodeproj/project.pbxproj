@@ -31,6 +31,7 @@
 		9BAC1C032451ABAE006E24CB /* numberOfK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C022451ABAE006E24CB /* numberOfK.swift */; };
 		9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C042451BD15006E24CB /* biggestNumber.swift */; };
 		9BAC1C072451E342006E24CB /* h-index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C062451E342006E24CB /* h-index.swift */; };
+		9BCC065924F5407C00D6A236 /* 2020_kakao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCC065824F5407C00D6A236 /* 2020_kakao.swift */; };
 		9BDD524324C19D5500C0870B /* number_of_K.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDD524224C19D5500C0870B /* number_of_K.swift */; };
 		9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */; };
 		9BE15852216AE745006A8CE8 /* stack_queue_2L_6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */; };
@@ -91,6 +92,7 @@
 		9BAC1C022451ABAE006E24CB /* numberOfK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numberOfK.swift; sourceTree = "<group>"; };
 		9BAC1C042451BD15006E24CB /* biggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggestNumber.swift; sourceTree = "<group>"; };
 		9BAC1C062451E342006E24CB /* h-index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "h-index.swift"; sourceTree = "<group>"; };
+		9BCC065824F5407C00D6A236 /* 2020_kakao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2020_kakao.swift; sourceTree = "<group>"; };
 		9BDD524224C19D5500C0870B /* number_of_K.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = number_of_K.swift; sourceTree = "<group>"; };
 		9BE0146D2237CC4C000CFE01 /* PN_10828 Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_10828 Stack.cpp"; sourceTree = "<group>"; };
 		9BE15851216AE745006A8CE8 /* stack_queue_2L_6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_6.cpp; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 				9BDD524124C19D4100C0870B /* Sort */,
 				9B30D5EB24C04E9C0030F14F /* Stack */,
 				9B06743924C5A1F40058078A /* 2019_kakao_winter_intership.swift */,
+				9BCC065824F5407C00D6A236 /* 2020_kakao.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -407,6 +410,7 @@
 				9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */,
 				9BE5054623C7186B005D6B69 /* PN_4949.cpp in Sources */,
 				9BE0146E2237CC4C000CFE01 /* PN_10828 Stack.cpp in Sources */,
+				9BCC065924F5407C00D6A236 /* 2020_kakao.swift in Sources */,
 				9B86C4D22372C6FA00B00693 /* PN_1918.cpp in Sources */,
 				9B85B4C1228D372000F7EAEE /* PN_9935 string explosion.cpp in Sources */,
 				9BFAA7D52207081C0000255B /* problem_1L_1.cpp in Sources */,
