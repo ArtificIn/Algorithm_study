@@ -8,7 +8,9 @@
 
 import Foundation
 
-func solution1107(){
+// 리모컨 - https://www.acmicpc.net/problem/1107
+
+func PN_1107(){
     let inputMonth = readLine()! // 월 입력
     let inputDay = readLine()! // 일 입력
     let month: [Int] = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31] // 해당 월에 대한 일수

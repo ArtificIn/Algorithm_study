@@ -28,7 +28,7 @@ import Foundation
  */
 
 
-func solution(_n : Int) -> Int {
+func solution(_ n : Int) -> Int {
     var count = 0
     var array = Array.init(repeating: false, count: n+1)
     
