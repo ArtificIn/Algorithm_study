@@ -8,4 +8,4 @@
 
 import Foundation
 
-PN_10250()
+p_solution("123")
