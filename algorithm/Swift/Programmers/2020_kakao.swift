@@ -8,7 +8,7 @@
 
 import Foundation
 
-func solution(_ s:String) -> Int {
+func kakao_2020_solution(_ s:String) -> Int {
     var answerarr = [Int]()
     var i = 0
     while i <= s.count/2 {

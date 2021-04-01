@@ -8,7 +8,7 @@
 
 import Foundation
 
-func p_solution(_ numbers:String) -> Int {
+func find_decimal_solution(_ numbers:String) -> Int {
     // 종이 조각으로 만들 수 있는 모든 수를 구한다
     // 수를 나누어 소수를 판별한다
     // 종이 개수 만큼 자리 수가 늘어난다

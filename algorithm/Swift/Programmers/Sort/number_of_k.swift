@@ -18,7 +18,7 @@
  */
 import Foundation
 
-func solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
+func number_of_k_solution(_ array:[Int], _ commands:[[Int]]) -> [Int] {
     return commands.map{ key in array[(key[0]-1)...(key[1]-1)].sorted()[key[2]-1] }
 }
 

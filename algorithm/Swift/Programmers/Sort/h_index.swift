@@ -14,7 +14,7 @@
 
 import Foundation
 
-func solution(_ citations:[Int]) -> Int {
+func h_index_solution(_ citations:[Int]) -> Int {
     let sorted = citations.sorted(by: >)
     for i in 0..<sorted.count {
         if i >= sorted[i] {

@@ -19,7 +19,7 @@
 import Foundation
 
 // 문제 핵심은 트럭이 올라갈 때의 시간을 기억하는 것
-func solution(_ bridge_length:Int, _ weight:Int, _ truck_weights:[Int]) -> Int {
+func bridge_truck_solution(_ bridge_length:Int, _ weight:Int, _ truck_weights:[Int]) -> Int {
     var array : [Int] = truck_weights // 대기중 트럭
     var heavy : Int = 0
     var times : [Int] = [Int]() //무게 변수

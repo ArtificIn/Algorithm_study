@@ -6,10 +6,9 @@
 //  Copyright © 2020 성다연. All rights reserved.
 //
 
-/// 개선 해야됨
 import Foundation
 
-func solution(_ board:[[Int]], _ moves:[Int]) -> Int {
+func kakao_2019_winter_solution(_ board:[[Int]], _ moves:[Int]) -> Int {
     var array : [[Int]] = board
     var basket : [Int] = [Int]()
     var count : Int = 0, v = 0
