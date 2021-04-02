@@ -8,3 +8,5 @@
 
 import Foundation
 
+print(kakao_2020_intership_solution("100-200*300-500+20"))
+print(kakao_2020_intership_solution("50*6-3*2"))
