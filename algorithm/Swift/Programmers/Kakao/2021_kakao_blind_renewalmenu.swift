@@ -35,6 +35,13 @@ import Foundation
 // 다시 풀어보기
 
 func kakao_2021_blind_renewalMenu(_ orders:[String], _ course:[Int]) -> [String] {
+    // 1. 모든 조합 구하기
+    // 2. 조합 중에 공통적인 배열 (긴 코스 <- 짧은 코스) && (긴 코드.value == 짧은 코스.value)
+    
+    return []
+}
+
+func kakao_2021_blind_renewalMenu2(_ orders:[String], _ course:[Int]) -> [String] {
     var result : [String : Int] = [:]
     var answer : [String] = []
     

@@ -15,6 +15,7 @@
 		9B1CC222224359EF00DA5306 /* PN_2493 tower.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */; };
 		9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */; };
 		9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2606032385445700A20CF3 /* PN_1935.cpp */; };
+		9B2A3D52261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2A3D51261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift */; };
 		9B2B64C924C6CCDC006BD261 /* mock_exam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B2B64C824C6CCDC006BD261 /* mock_exam.swift */; };
 		9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */; };
 		9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2DF7642207477F00E9DF6B /* PN_9095.cpp */; };
@@ -99,6 +100,7 @@
 		9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_2493 tower.cpp"; sourceTree = "<group>"; };
 		9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_5.cpp; sourceTree = "<group>"; };
 		9B2606032385445700A20CF3 /* PN_1935.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1935.cpp; sourceTree = "<group>"; };
+		9B2A3D51261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2021_kakao_blind_searchranking.swift; sourceTree = "<group>"; };
 		9B2B64C824C6CCDC006BD261 /* mock_exam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mock_exam.swift; sourceTree = "<group>"; };
 		9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_9012 ().cpp"; sourceTree = "<group>"; };
 		9B2DF7642207477F00E9DF6B /* PN_9095.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_9095.cpp; sourceTree = "<group>"; };
@@ -430,6 +432,7 @@
 				9BE3F1E32617117D001BED9D /* 2020_kakao_intership.swift */,
 				9B4A73BF26198B3000C0C9E6 /* 2021_kakao_blind_newid.swift */,
 				9B4A73C526199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift */,
+				9B2A3D51261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift */,
 			);
 			path = Kakao;
 			sourceTree = "<group>";
@@ -502,6 +505,7 @@
 				9B5ECA1C2615D0EA00D05B94 /* pick_two_add.swift in Sources */,
 				9B7748362240A3EF005B550A /* PN_2504 valueIn().cpp in Sources */,
 				9BFAA7D12207081C0000255B /* problem_1L_10.cpp in Sources */,
+				9B2A3D52261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift in Sources */,
 				9B027D42215C66F60062469E /* stack_queue_2L_1.cpp in Sources */,
 				9B03CC3A215DCA7F00687B41 /* stack_queue_2L_3.cpp in Sources */,
 				9B9B77572610450000DF8ABF /* PN_2292.swift in Sources */,
