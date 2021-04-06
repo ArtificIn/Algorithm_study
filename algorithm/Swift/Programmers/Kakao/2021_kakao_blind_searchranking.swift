@@ -12,6 +12,7 @@ import Foundation
 
 // 이진 탐색으로 풀어야한다
 func kakao_2021_blin_searchranking_solution(_ info:[String], _ query:[String]) -> [Int] {
+    return []
 }
 
 // 효율성 실패
