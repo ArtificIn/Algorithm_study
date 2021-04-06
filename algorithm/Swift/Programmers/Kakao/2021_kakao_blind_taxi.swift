@@ -8,6 +8,8 @@
 
 import Foundation
 
+// 합승 택시 요금 - https://programmers.co.kr/learn/courses/30/lessons/72413
+
 func kakao_2021_blind_taxi_solution(_ n:Int, _ s:Int, _ a:Int, _ b:Int, _ fares:[[Int]]) -> Int {
     let max = 100000 * 200
     var array = Array(repeating: Array(repeating: max, count: n), count: n)

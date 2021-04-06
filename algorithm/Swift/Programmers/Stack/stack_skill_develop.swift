@@ -8,7 +8,9 @@
 
 import Foundation
 
-func skill_develop_solution(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
+// 기능 개발 - https://programmers.co.kr/learn/courses/30/lessons/42586
+
+func stack_skill_develop_solution(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
     var result : [Int] = []
     var (count, max) = (1, 0)
     
@@ -18,14 +20,14 @@ func skill_develop_solution(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
        
         if i == 0 {
             max = n
+            continue
+        }
+        if max >= n {
+            count += 1
         } else {
-            if max >= n {
-                count += 1
-            } else {
-                max = n
-                result.append(count)
-                count = 1
-            }
+            max = n
+            result.append(count)
+            count = 1
         }
     }
     result.append(count)

@@ -8,22 +8,11 @@
 
 import Foundation
 
-func find_decimal_solution(_ numbers:String) -> Int {
+// 소수 찾기 - https://programmers.co.kr/learn/courses/30/lessons/42839
+
+func bruteforce_find_decimal_solution(_ numbers:String) -> Int {
     // 종이 조각으로 만들 수 있는 모든 수를 구한다
     // 수를 나누어 소수를 판별한다
     // 종이 개수 만큼 자리 수가 늘어난다
-    let list = numbers.map { Int("\($0)")! }
-    
-    // 1 7 17 71 = 4번
-    // 1 2 3 12 13 21 23 31 32 123 132 213 231 312 321 = 뒤집는걸 반복하면 9번
-    
-    // 1 2 3
-    // 12 13 21 23 31 32
-    // 123 132 213 231 312 321
- 
-    if list.count == 1 {
-        return 1
-    }
-    
     return 0
 }

@@ -9,30 +9,6 @@
 import Foundation
 
 // 메뉴 리뉴얼 - https://programmers.co.kr/learn/courses/30/lessons/72411
-// 4:08
-
-// 1. 주문이 적은 것부터 같은 다른 주문이 있는지 찾는다 -> X
-//  2 : 1, 2, 4, 6
-//  3 : 3, 4, 6
-//  4 : 4, 6
-//  5 : 1, 5
-
-// 2. 모든 메뉴 종류를 가져와, 2개 이상의 조합을 만든다
-// 2. 각 주문에서 2개 이상의 조합을 만들어 공통을 찾는다
-
-// a c
-// c d e
-// a c d e
-// b c f g
-// a c d e h
-// a b c f g
-
-// x y w a z
-// xy yz xz xyz
-// xw wy xy xwy
-// wa xa wa wxa
-
-// 다시 풀어보기
 
 func kakao_2021_blind_renewalMenu(_ orders:[String], _ course:[Int]) -> [String] {
     // 1. 모든 조합 구하기

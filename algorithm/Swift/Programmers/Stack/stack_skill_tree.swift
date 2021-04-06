@@ -8,7 +8,9 @@
 
 import Foundation
 
-func skill_tree_solution(_ skill:String, _ skill_trees:[String]) -> Int {
+// 스킬 트리 - https://programmers.co.kr/learn/courses/30/lessons/49993
+
+func stack_skill_tree_solution(_ skill:String, _ skill_trees:[String]) -> Int {
     var count = 0
     
     for i in skill_trees {

@@ -8,7 +8,9 @@
 
 import Foundation
 
-func mock_exam_solution(_ answers:[Int]) -> [Int] {
+// 모의고사 - https://programmers.co.kr/learn/courses/30/lessons/42840
+
+func bruteforce_mock_exam_solution(_ answers:[Int]) -> [Int] {
     var person1 = [1,2,3,4,5]
     var person2 = [2,1,2,3,2,4,2,5]
     var person3 = [3,3,1,1,2,2,4,4,5,5]

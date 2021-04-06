@@ -8,8 +8,9 @@
 
 import Foundation
 
+// 네트워크 - https://programmers.co.kr/learn/courses/30/lessons/43162
 
-func network_solution(_ n : Int, _ computers:[[Int]]) -> Int {
+func dfs_network_solution(_ n : Int, _ computers:[[Int]]) -> Int {
     var depth = Array.init(repeating: false, count: n)
     var count = 0
     

@@ -8,8 +8,9 @@
 
 import Foundation
 
+// 타겟 넘버 - https://programmers.co.kr/learn/courses/30/lessons/43165
 
-func target_number_solution(_ numbers:[Int], _ target:Int) -> Int {
+func dfs_target_number_solution(_ numbers:[Int], _ target:Int) -> Int {
     var count = 0
     
     func dfs(_ depth : Int, _ sum : Int){

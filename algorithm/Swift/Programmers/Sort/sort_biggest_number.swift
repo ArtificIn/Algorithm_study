@@ -8,7 +8,9 @@
 
 import Foundation
 
-func pick_two_add_solution(_ numbers:[Int]) -> [Int] {
+// 가장 큰 수 - https://programmers.co.kr/learn/courses/30/lessons/42746
+
+func sort_biggest_number_solution(_ numbers:[Int]) -> [Int] {
     var result = [Int]()
     
     for i in 0..<numbers.count {
