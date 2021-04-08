@@ -21,8 +21,7 @@ func stack_printer_solution(_ priorities:[Int], _ location:Int) -> Int {
     
     while count != list.count - 1 {
         if list[count].1 < list[i].1 {
-            let temp = list[count]
-            list.remove(at: count)
+            let temp = list.remove(at: count)
             list.append(temp)
             i = 1
             count = 0
@@ -36,4 +35,25 @@ func stack_printer_solution(_ priorities:[Int], _ location:Int) -> Int {
     }
     
     return list.firstIndex(where: { $0.0 == location})! + 1
+}
+
+func stack_printer_solution2(_ priorities:[Int], _ location:Int) -> Int {
+    var priority = priorities
+    var position = location
+    
+    while priority.count > 0 {
+        if priority.contains(where: { $0 > priority[0] }) {
+            let first = priority.removeFirst()
+            priority.append(first)
+            position = position - 1 < 0 ? priority.count - 1 : position - 1
+        } else {
+            if position == 0 {
+                return priorities.count - priority.count + 1
+            }
+            priority.removeFirst()
+            position -= 1
+        }
+    }
+    
+    return 0
 }
