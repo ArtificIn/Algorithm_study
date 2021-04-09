@@ -10,12 +10,6 @@ import Foundation
 
 // 디스크 컨트롤러 - https://programmers.co.kr/learn/courses/30/lessons/42627?language=swift
 
-// job.first!.last! + timer - job.first!.first!
-// [15, 2], [0, 10], [2, 10], [9, 10]
-// [0, 10]
-// [15, 2, 10], [2, 10, 10], [9, 10, 10]
-// [15, 2, 20], [9, 10, 20]
-
 func heap_diskcontroller_solution(_ jobs:[[Int]]) -> Int {
     var job = jobs.sorted(by: { $0.last! < $1.last! })
     var total = 0

@@ -23,6 +23,7 @@
 		9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2DF7642207477F00E9DF6B /* PN_9095.cpp */; };
 		9B30D5ED24C04EAA0030F14F /* stack_bridge_truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B30D5EC24C04EAA0030F14F /* stack_bridge_truck.swift */; };
 		9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B3EEE6E2208547E00E1CB93 /* PN_2579.cpp */; };
+		9B40508D2620258D00247289 /* PN_11726.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B40508C2620258D00247289 /* PN_11726.swift */; };
 		9B41DBFB26132CD500F67A39 /* PN_2775.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DBFA26132CD500F67A39 /* PN_2775.swift */; };
 		9B41DBFE2613606300F67A39 /* PN_2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DBFD2613606300F67A39 /* PN_2839.swift */; };
 		9B41DC0126136CFB00F67A39 /* PN_1978.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DC0026136CFB00F67A39 /* PN_1978.swift */; };
@@ -111,6 +112,7 @@
 		9B30D5EC24C04EAA0030F14F /* stack_bridge_truck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stack_bridge_truck.swift; sourceTree = "<group>"; };
 		9B38FD6521509308005422ED /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B3EEE6E2208547E00E1CB93 /* PN_2579.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_2579.cpp; sourceTree = "<group>"; };
+		9B40508C2620258D00247289 /* PN_11726.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_11726.swift; sourceTree = "<group>"; };
 		9B41DBFA26132CD500F67A39 /* PN_2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_2775.swift; sourceTree = "<group>"; };
 		9B41DBFD2613606300F67A39 /* PN_2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_2839.swift; sourceTree = "<group>"; };
 		9B41DC0026136CFB00F67A39 /* PN_1978.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_1978.swift; sourceTree = "<group>"; };
@@ -230,6 +232,7 @@
 		9B30D5E624C04B430030F14F /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				9B40508B2620258200247289 /* DP */,
 				9B41DC0326136CFF00F67A39 /* Basic_Math2 */,
 				9BD7F92E2612F56C00C28F3D /* Basic_Math */,
 				9B5E3691254BE6BB00223C39 /* PN_1107.swift */,
@@ -288,6 +291,14 @@
 				9B30D5E424C04B050030F14F /* C++ */,
 			);
 			path = algorithm;
+			sourceTree = "<group>";
+		};
+		9B40508B2620258200247289 /* DP */ = {
+			isa = PBXGroup;
+			children = (
+				9B40508C2620258D00247289 /* PN_11726.swift */,
+			);
+			path = DP;
 			sourceTree = "<group>";
 		};
 		9B41DC0326136CFF00F67A39 /* Basic_Math2 */ = {
@@ -570,6 +581,7 @@
 				9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */,
 				9B066BA7261C55E50070B0D4 /* stack_printer.swift in Sources */,
 				9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */,
+				9B40508D2620258D00247289 /* PN_11726.swift in Sources */,
 				9B9FE1DD2206FEAE0017D425 /* 달팽이.cpp in Sources */,
 				9BD7F9302612F67400C28F3D /* PN_10250.swift in Sources */,
 				9B1BEAD52605C7670094E949 /* Scofe2021.swift in Sources */,
