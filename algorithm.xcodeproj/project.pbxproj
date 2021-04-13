@@ -42,6 +42,7 @@
 		9B670F5426049C7100FB2417 /* Scofe2021_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B670F5326049C7100FB2417 /* Scofe2021_test.swift */; };
 		9B774834224099E6005B550A /* PN_10799 IronStick.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B774833224099E6005B550A /* PN_10799 IronStick.cpp */; };
 		9B7748362240A3EF005B550A /* PN_2504 valueIn().cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B7748352240A3EF005B550A /* PN_2504 valueIn().cpp */; };
+		9B80B9902625A80600E0E655 /* PN_14920.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B80B98F2625A80600E0E655 /* PN_14920.swift */; };
 		9B85B4C1228D372000F7EAEE /* PN_9935 string explosion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */; };
 		9B86C4D22372C6FA00B00693 /* PN_1918.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B86C4D12372C6FA00B00693 /* PN_1918.cpp */; };
 		9B9B7754261044CE00DF8ABF /* PN_1712.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B9B7753261044CE00DF8ABF /* PN_1712.swift */; };
@@ -132,6 +133,7 @@
 		9B670F5326049C7100FB2417 /* Scofe2021_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scofe2021_test.swift; sourceTree = "<group>"; };
 		9B774833224099E6005B550A /* PN_10799 IronStick.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_10799 IronStick.cpp"; sourceTree = "<group>"; };
 		9B7748352240A3EF005B550A /* PN_2504 valueIn().cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_2504 valueIn().cpp"; sourceTree = "<group>"; };
+		9B80B98F2625A80600E0E655 /* PN_14920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_14920.swift; sourceTree = "<group>"; };
 		9B85B4C0228D372000F7EAEE /* PN_9935 string explosion.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_9935 string explosion.cpp"; sourceTree = "<group>"; };
 		9B86C4D12372C6FA00B00693 /* PN_1918.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_1918.cpp; sourceTree = "<group>"; };
 		9B9B7753261044CE00DF8ABF /* PN_1712.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_1712.swift; sourceTree = "<group>"; };
@@ -223,8 +225,8 @@
 		9B30D5E524C04B180030F14F /* Swift */ = {
 			isa = PBXGroup;
 			children = (
-				9BC4AA9626240CD100996BE7 /* LeetCode */,
 				9BF6F21225C7D965000C8189 /* main.swift */,
+				9BC4AA9626240CD100996BE7 /* LeetCode */,
 				9BA119E726088EC90045F37B /* Scofe2021 */,
 				9B30D5E624C04B430030F14F /* Baekjoon */,
 				9B30D5E724C04B520030F14F /* Programmers */,
@@ -240,6 +242,7 @@
 				9BD7F92E2612F56C00C28F3D /* Basic_Math */,
 				9B5E3691254BE6BB00223C39 /* PN_1107.swift */,
 				9B9B775D2610536D00DF8ABF /* PN_2493.swift */,
+				9B80B98F2625A80600E0E655 /* PN_14920.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -579,6 +582,7 @@
 				9BE3F1E42617117D001BED9D /* 2020_kakao_intership.swift in Sources */,
 				9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */,
 				9B066B96261C23D20070B0D4 /* 2021_kakao_blind_taxi.swift in Sources */,
+				9B80B9902625A80600E0E655 /* PN_14920.swift in Sources */,
 				9B5E3692254BE6BB00223C39 /* PN_1107.swift in Sources */,
 				9B2606042385445700A20CF3 /* PN_1935.cpp in Sources */,
 				9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */,
