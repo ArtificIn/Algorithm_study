@@ -27,6 +27,7 @@
 		9B41DBFB26132CD500F67A39 /* PN_2775.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DBFA26132CD500F67A39 /* PN_2775.swift */; };
 		9B41DBFE2613606300F67A39 /* PN_2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DBFD2613606300F67A39 /* PN_2839.swift */; };
 		9B41DC0126136CFB00F67A39 /* PN_1978.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DC0026136CFB00F67A39 /* PN_1978.swift */; };
+		9B41FA6D2626E398007D058C /* PN_11723.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41FA6C2626E398007D058C /* PN_11723.swift */; };
 		9B456E61227AC69400A54E30 /* PN_6549_biggestRectangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B456E60227AC69400A54E30 /* PN_6549_biggestRectangle.cpp */; };
 		9B4A73C026198B3000C0C9E6 /* 2021_kakao_blind_newid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4A73BF26198B3000C0C9E6 /* 2021_kakao_blind_newid.swift */; };
 		9B4A73C626199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4A73C526199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift */; };
@@ -118,6 +119,7 @@
 		9B41DBFA26132CD500F67A39 /* PN_2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_2775.swift; sourceTree = "<group>"; };
 		9B41DBFD2613606300F67A39 /* PN_2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_2839.swift; sourceTree = "<group>"; };
 		9B41DC0026136CFB00F67A39 /* PN_1978.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_1978.swift; sourceTree = "<group>"; };
+		9B41FA6C2626E398007D058C /* PN_11723.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_11723.swift; sourceTree = "<group>"; };
 		9B456E60227AC69400A54E30 /* PN_6549_biggestRectangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_6549_biggestRectangle.cpp; sourceTree = "<group>"; };
 		9B4A73BF26198B3000C0C9E6 /* 2021_kakao_blind_newid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2021_kakao_blind_newid.swift; sourceTree = "<group>"; };
 		9B4A73C526199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2021_kakao_blind_renewalmenu.swift; sourceTree = "<group>"; };
@@ -243,6 +245,7 @@
 				9B5E3691254BE6BB00223C39 /* PN_1107.swift */,
 				9B9B775D2610536D00DF8ABF /* PN_2493.swift */,
 				9B80B98F2625A80600E0E655 /* PN_14920.swift */,
+				9B41FA6C2626E398007D058C /* PN_11723.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -549,6 +552,7 @@
 				9B2A3D52261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift in Sources */,
 				9B027D42215C66F60062469E /* stack_queue_2L_1.cpp in Sources */,
 				9B03CC3A215DCA7F00687B41 /* stack_queue_2L_3.cpp in Sources */,
+				9B41FA6D2626E398007D058C /* PN_11723.swift in Sources */,
 				9B9B77572610450000DF8ABF /* PN_2292.swift in Sources */,
 				9B5ECA0D2615AEF200D05B94 /* recursion_normal_rectangle.swift in Sources */,
 				9B774834224099E6005B550A /* PN_10799 IronStick.cpp in Sources */,
