@@ -12,7 +12,8 @@
 		9B03CC3A215DCA7F00687B41 /* stack_queue_2L_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B03CC39215DCA7F00687B41 /* stack_queue_2L_3.cpp */; };
 		9B066B96261C23D20070B0D4 /* 2021_kakao_blind_taxi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B066B95261C23D20070B0D4 /* 2021_kakao_blind_taxi.swift */; };
 		9B066BA7261C55E50070B0D4 /* stack_printer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B066BA6261C55E50070B0D4 /* stack_printer.swift */; };
-		9B06743A24C5A1F40058078A /* 2019_kakao_winter_intership.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06743924C5A1F40058078A /* 2019_kakao_winter_intership.swift */; };
+		9B06743A24C5A1F40058078A /* 2019_kakao_winter_intership_crain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B06743924C5A1F40058078A /* 2019_kakao_winter_intership_crain.swift */; };
+		9B0BDDF8262818D1009F4552 /* 2019_kakao_winter_internship_tupple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0BDDF7262818D1009F4552 /* 2019_kakao_winter_internship_tupple.swift */; };
 		9B1BEAD52605C7670094E949 /* Scofe2021.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B1BEAD42605C7670094E949 /* Scofe2021.swift */; };
 		9B1CC222224359EF00DA5306 /* PN_2493 tower.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */; };
 		9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */; };
@@ -103,7 +104,8 @@
 		9B03CC39215DCA7F00687B41 /* stack_queue_2L_3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_3.cpp; sourceTree = "<group>"; };
 		9B066B95261C23D20070B0D4 /* 2021_kakao_blind_taxi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2021_kakao_blind_taxi.swift; sourceTree = "<group>"; };
 		9B066BA6261C55E50070B0D4 /* stack_printer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stack_printer.swift; sourceTree = "<group>"; };
-		9B06743924C5A1F40058078A /* 2019_kakao_winter_intership.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2019_kakao_winter_intership.swift; sourceTree = "<group>"; };
+		9B06743924C5A1F40058078A /* 2019_kakao_winter_intership_crain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2019_kakao_winter_intership_crain.swift; sourceTree = "<group>"; };
+		9B0BDDF7262818D1009F4552 /* 2019_kakao_winter_internship_tupple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2019_kakao_winter_internship_tupple.swift; sourceTree = "<group>"; };
 		9B1BEAD42605C7670094E949 /* Scofe2021.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scofe2021.swift; sourceTree = "<group>"; };
 		9B1CC221224359EF00DA5306 /* PN_2493 tower.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_2493 tower.cpp"; sourceTree = "<group>"; };
 		9B242C7B216A3A5600B9126F /* stack_queue_2L_5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = stack_queue_2L_5.cpp; sourceTree = "<group>"; };
@@ -468,13 +470,14 @@
 		9BE3F1DC2616E317001BED9D /* Kakao */ = {
 			isa = PBXGroup;
 			children = (
-				9B06743924C5A1F40058078A /* 2019_kakao_winter_intership.swift */,
+				9B06743924C5A1F40058078A /* 2019_kakao_winter_intership_crain.swift */,
 				9BE3F1DD2616E38C001BED9D /* 2020_kakao_blind_compactstring.swift */,
 				9BE3F1E32617117D001BED9D /* 2020_kakao_intership.swift */,
 				9B4A73BF26198B3000C0C9E6 /* 2021_kakao_blind_newid.swift */,
 				9B4A73C526199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift */,
 				9B2A3D51261AE23000C356C9 /* 2021_kakao_blind_searchranking.swift */,
 				9B066B95261C23D20070B0D4 /* 2021_kakao_blind_taxi.swift */,
+				9B0BDDF7262818D1009F4552 /* 2019_kakao_winter_internship_tupple.swift */,
 			);
 			path = Kakao;
 			sourceTree = "<group>";
@@ -539,7 +542,7 @@
 				9B30D5ED24C04EAA0030F14F /* stack_bridge_truck.swift in Sources */,
 				9B242C7C216A3A5600B9126F /* stack_queue_2L_5.cpp in Sources */,
 				9BFAA7CF2207081C0000255B /* problem_1L_4.cpp in Sources */,
-				9B06743A24C5A1F40058078A /* 2019_kakao_winter_intership.swift in Sources */,
+				9B06743A24C5A1F40058078A /* 2019_kakao_winter_intership_crain.swift in Sources */,
 				9BFAA7CE2207081C0000255B /* problem_1L_5.cpp in Sources */,
 				9B5ECA162615B93900D05B94 /* stack_skill_develop.swift in Sources */,
 				9B9B775E2610536D00DF8ABF /* PN_2493.swift in Sources */,
@@ -565,6 +568,7 @@
 				9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */,
 				9BFAA7D22207081C0000255B /* problem_1L_2.cpp in Sources */,
 				9B670F5426049C7100FB2417 /* Scofe2021_test.swift in Sources */,
+				9B0BDDF8262818D1009F4552 /* 2019_kakao_winter_internship_tupple.swift in Sources */,
 				9BE3F1DE2616E38C001BED9D /* 2020_kakao_blind_compactstring.swift in Sources */,
 				9B1CC222224359EF00DA5306 /* PN_2493 tower.cpp in Sources */,
 				9B5ECA192615C1DC00D05B94 /* stack_skill_tree.swift in Sources */,
