@@ -60,6 +60,8 @@
 		9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C042451BD15006E24CB /* biggestNumber.swift */; };
 		9BAC1C072451E342006E24CB /* h-index.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BAC1C062451E342006E24CB /* h-index.swift */; };
 		9BC4AA9826240CEA00996BE7 /* word_search_79.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC4AA9726240CEA00996BE7 /* word_search_79.swift */; };
+		9BC92440263A817100C65B19 /* PN_11047.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9243F263A817100C65B19 /* PN_11047.swift */; };
+		9BC92443263A85A700C65B19 /* PN_1931.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC92442263A85A700C65B19 /* PN_1931.swift */; };
 		9BCB62D625AC1FA200533D19 /* else.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BCB62D525AC1FA200533D19 /* else.swift */; };
 		9BD7F92B2612EDB900C28F3D /* PN_2869.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD7F92A2612EDB900C28F3D /* PN_2869.swift */; };
 		9BD7F9302612F67400C28F3D /* PN_10250.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD7F92F2612F67400C28F3D /* PN_10250.swift */; };
@@ -156,6 +158,8 @@
 		9BAC1C042451BD15006E24CB /* biggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggestNumber.swift; sourceTree = "<group>"; };
 		9BAC1C062451E342006E24CB /* h-index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "h-index.swift"; sourceTree = "<group>"; };
 		9BC4AA9726240CEA00996BE7 /* word_search_79.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = word_search_79.swift; sourceTree = "<group>"; };
+		9BC9243F263A817100C65B19 /* PN_11047.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_11047.swift; sourceTree = "<group>"; };
+		9BC92442263A85A700C65B19 /* PN_1931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_1931.swift; sourceTree = "<group>"; };
 		9BCB62D525AC1FA200533D19 /* else.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = else.swift; sourceTree = "<group>"; };
 		9BD7F92A2612EDB900C28F3D /* PN_2869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_2869.swift; sourceTree = "<group>"; };
 		9BD7F92F2612F67400C28F3D /* PN_10250.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_10250.swift; sourceTree = "<group>"; };
@@ -247,6 +251,7 @@
 		9B30D5E624C04B430030F14F /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				9BC9243E263A815800C65B19 /* Greedy */,
 				9B40508B2620258200247289 /* DP */,
 				9B41DC0326136CFF00F67A39 /* Basic_Math2 */,
 				9BD7F92E2612F56C00C28F3D /* Basic_Math */,
@@ -432,6 +437,15 @@
 			path = LeetCode;
 			sourceTree = "<group>";
 		};
+		9BC9243E263A815800C65B19 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				9BC9243F263A817100C65B19 /* PN_11047.swift */,
+				9BC92442263A85A700C65B19 /* PN_1931.swift */,
+			);
+			path = Greedy;
+			sourceTree = "<group>";
+		};
 		9BD7F92E2612F56C00C28F3D /* Basic_Math */ = {
 			isa = PBXGroup;
 			children = (
@@ -554,6 +568,7 @@
 				9B06743A24C5A1F40058078A /* 2019_kakao_winter_intership_crain.swift in Sources */,
 				9BFAA7CE2207081C0000255B /* problem_1L_5.cpp in Sources */,
 				9B5ECA162615B93900D05B94 /* stack_skill_develop.swift in Sources */,
+				9BC92440263A817100C65B19 /* PN_11047.swift in Sources */,
 				9B9B775E2610536D00DF8ABF /* PN_2493.swift in Sources */,
 				9BD7F92B2612EDB900C28F3D /* PN_2869.swift in Sources */,
 				9B9C17E3261ED79200C9B779 /* heap_diskcontroller.swift in Sources */,
@@ -598,6 +613,7 @@
 				9B5ECA092615A12100D05B94 /* dfs_network.swift in Sources */,
 				9BAC1C032451ABAE006E24CB /* numberOfK.swift in Sources */,
 				9BCB62D625AC1FA200533D19 /* else.swift in Sources */,
+				9BC92443263A85A700C65B19 /* PN_1931.swift in Sources */,
 				9B2B64C924C6CCDC006BD261 /* bruteforce_mock_exam.swift in Sources */,
 				9BE3F1E42617117D001BED9D /* 2020_kakao_intership.swift in Sources */,
 				9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */,
