@@ -24,6 +24,9 @@
 		9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2D75D7223A02C9006AFC41 /* PN_9012 ().cpp */; };
 		9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B2DF7642207477F00E9DF6B /* PN_9095.cpp */; };
 		9B30D5ED24C04EAA0030F14F /* stack_bridge_truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B30D5EC24C04EAA0030F14F /* stack_bridge_truck.swift */; };
+		9B3B14F4263FB92B00BCF18A /* Factorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3B14F3263FB92B00BCF18A /* Factorial.swift */; };
+		9B3B14F7263FB97400BCF18A /* Combination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3B14F6263FB97400BCF18A /* Combination.swift */; };
+		9B3B14FA263FBA7F00BCF18A /* Permutation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3B14F9263FBA7F00BCF18A /* Permutation.swift */; };
 		9B3EEE6F2208547E00E1CB93 /* PN_2579.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B3EEE6E2208547E00E1CB93 /* PN_2579.cpp */; };
 		9B40508D2620258D00247289 /* PN_11726.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B40508C2620258D00247289 /* PN_11726.swift */; };
 		9B41DBFB26132CD500F67A39 /* PN_2775.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B41DBFA26132CD500F67A39 /* PN_2775.swift */; };
@@ -34,6 +37,7 @@
 		9B4A73C026198B3000C0C9E6 /* 2021_kakao_blind_newid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4A73BF26198B3000C0C9E6 /* 2021_kakao_blind_newid.swift */; };
 		9B4A73C626199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4A73C526199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift */; };
 		9B4A7E0E223E6815006158F5 /* PN_1874 Stack Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 9B4A7E0D223E6815006158F5 /* PN_1874 Stack Array.cpp */; };
+		9B4E70A62642610700063063 /* PN_9421.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B4E70A52642610700063063 /* PN_9421.swift */; };
 		9B54562B24C9A0C600432338 /* bruteforce_find_decimal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B54562A24C9A0C600432338 /* bruteforce_find_decimal.swift */; };
 		9B54D7D72632C119008616B4 /* PN_14888.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B54D7D62632C119008616B4 /* PN_14888.swift */; };
 		9B5E3692254BE6BB00223C39 /* PN_1107.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B5E3691254BE6BB00223C39 /* PN_1107.swift */; };
@@ -125,6 +129,9 @@
 		9B2DF7642207477F00E9DF6B /* PN_9095.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_9095.cpp; sourceTree = "<group>"; };
 		9B30D5EC24C04EAA0030F14F /* stack_bridge_truck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stack_bridge_truck.swift; sourceTree = "<group>"; };
 		9B38FD6521509308005422ED /* algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B3B14F3263FB92B00BCF18A /* Factorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factorial.swift; sourceTree = "<group>"; };
+		9B3B14F6263FB97400BCF18A /* Combination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Combination.swift; sourceTree = "<group>"; };
+		9B3B14F9263FBA7F00BCF18A /* Permutation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Permutation.swift; sourceTree = "<group>"; };
 		9B3EEE6E2208547E00E1CB93 /* PN_2579.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PN_2579.cpp; sourceTree = "<group>"; };
 		9B40508C2620258D00247289 /* PN_11726.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_11726.swift; sourceTree = "<group>"; };
 		9B41DBFA26132CD500F67A39 /* PN_2775.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_2775.swift; sourceTree = "<group>"; };
@@ -135,6 +142,7 @@
 		9B4A73BF26198B3000C0C9E6 /* 2021_kakao_blind_newid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2021_kakao_blind_newid.swift; sourceTree = "<group>"; };
 		9B4A73C526199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2021_kakao_blind_renewalmenu.swift; sourceTree = "<group>"; };
 		9B4A7E0D223E6815006158F5 /* PN_1874 Stack Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PN_1874 Stack Array.cpp"; sourceTree = "<group>"; };
+		9B4E70A52642610700063063 /* PN_9421.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_9421.swift; sourceTree = "<group>"; };
 		9B54562A24C9A0C600432338 /* bruteforce_find_decimal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bruteforce_find_decimal.swift; sourceTree = "<group>"; };
 		9B54D7D62632C119008616B4 /* PN_14888.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_14888.swift; sourceTree = "<group>"; };
 		9B5E3691254BE6BB00223C39 /* PN_1107.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PN_1107.swift; sourceTree = "<group>"; };
@@ -251,6 +259,9 @@
 				9BED338A263D96BF007D5BC7 /* Line */,
 				9B30D5E624C04B430030F14F /* Baekjoon */,
 				9B30D5E724C04B520030F14F /* Programmers */,
+				9B3B14F3263FB92B00BCF18A /* Factorial.swift */,
+				9B3B14F6263FB97400BCF18A /* Combination.swift */,
+				9B3B14F9263FBA7F00BCF18A /* Permutation.swift */,
 			);
 			path = Swift;
 			sourceTree = "<group>";
@@ -258,16 +269,11 @@
 		9B30D5E624C04B430030F14F /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				9B4E70A4264260D100063063 /* etc */,
 				9BC9243E263A815800C65B19 /* Greedy */,
 				9B40508B2620258200247289 /* DP */,
 				9B41DC0326136CFF00F67A39 /* Basic_Math2 */,
 				9BD7F92E2612F56C00C28F3D /* Basic_Math */,
-				9B5E3691254BE6BB00223C39 /* PN_1107.swift */,
-				9B9B775D2610536D00DF8ABF /* PN_2493.swift */,
-				9B80B98F2625A80600E0E655 /* PN_14920.swift */,
-				9B41FA6C2626E398007D058C /* PN_11723.swift */,
-				9B8BA45F262FE4E200D8A951 /* PN_2239.swift */,
-				9B54D7D62632C119008616B4 /* PN_14888.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -338,6 +344,20 @@
 				9B41DC0026136CFB00F67A39 /* PN_1978.swift */,
 			);
 			path = Basic_Math2;
+			sourceTree = "<group>";
+		};
+		9B4E70A4264260D100063063 /* etc */ = {
+			isa = PBXGroup;
+			children = (
+				9B5E3691254BE6BB00223C39 /* PN_1107.swift */,
+				9B9B775D2610536D00DF8ABF /* PN_2493.swift */,
+				9B80B98F2625A80600E0E655 /* PN_14920.swift */,
+				9B41FA6C2626E398007D058C /* PN_11723.swift */,
+				9B8BA45F262FE4E200D8A951 /* PN_2239.swift */,
+				9B54D7D62632C119008616B4 /* PN_14888.swift */,
+				9B4E70A52642610700063063 /* PN_9421.swift */,
+			);
+			path = etc;
 			sourceTree = "<group>";
 		};
 		9B5ECA0426159FB700D05B94 /* BFS_DFS */ = {
@@ -588,6 +608,7 @@
 				9B5ECA162615B93900D05B94 /* stack_skill_develop.swift in Sources */,
 				9BC92440263A817100C65B19 /* PN_11047.swift in Sources */,
 				9B9B775E2610536D00DF8ABF /* PN_2493.swift in Sources */,
+				9B3B14F4263FB92B00BCF18A /* Factorial.swift in Sources */,
 				9BD7F92B2612EDB900C28F3D /* PN_2869.swift in Sources */,
 				9B9C17E3261ED79200C9B779 /* heap_diskcontroller.swift in Sources */,
 				9B5ECA1C2615D0EA00D05B94 /* sort_biggest_number.swift in Sources */,
@@ -609,6 +630,7 @@
 				9BFAA7D42207081C0000255B /* problem_1L_11.cpp in Sources */,
 				9BFAA7D62207081C0000255B /* problem_1L_8.cpp in Sources */,
 				9B8BA460262FE4E200D8A951 /* PN_2239.swift in Sources */,
+				9B4E70A62642610700063063 /* PN_9421.swift in Sources */,
 				9B2DF7652207477F00E9DF6B /* PN_9095.cpp in Sources */,
 				9B005C1C262E9C280011E714 /* keys_and_rooms_841.swift in Sources */,
 				9BFAA7D22207081C0000255B /* problem_1L_2.cpp in Sources */,
@@ -622,6 +644,7 @@
 				9BF6F20F25C7D815000C8189 /* pm1-8.cpp in Sources */,
 				9BFAA7D02207081C0000255B /* problem_1L_6.cpp in Sources */,
 				9B4A73C626199D4100C0C9E6 /* 2021_kakao_blind_renewalmenu.swift in Sources */,
+				9B3B14FA263FBA7F00BCF18A /* Permutation.swift in Sources */,
 				9BFAA7D72207081C0000255B /* problem_1L_9.cpp in Sources */,
 				9BAC1C072451E342006E24CB /* h-index.swift in Sources */,
 				9B4A73C026198B3000C0C9E6 /* 2021_kakao_blind_newid.swift in Sources */,
@@ -650,6 +673,7 @@
 				9B03CC38215DC54A00687B41 /* stack_queue_2L_2.cpp in Sources */,
 				9B54562B24C9A0C600432338 /* bruteforce_find_decimal.swift in Sources */,
 				9BDD524324C19D5500C0870B /* sort_number_of_k.swift in Sources */,
+				9B3B14F7263FB97400BCF18A /* Combination.swift in Sources */,
 				9B2D75D8223A02C9006AFC41 /* PN_9012 ().cpp in Sources */,
 				9B066BA7261C55E50070B0D4 /* stack_printer.swift in Sources */,
 				9BAC1C052451BD15006E24CB /* biggestNumber.swift in Sources */,
